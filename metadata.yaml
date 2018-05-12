@@ -1,0 +1,29 @@
+_repo: Fante-di-picche_19884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farina, Salvatore
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '7674'
+    url: http://www.gutenberg.org/2009/agents/7674
+    wikipedia: http://en.wikipedia.org/wiki/Salvatore_Farina
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2006-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19884'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+title: Fante di picche
+url: http://www.gutenberg.org/ebooks/19884
